@@ -1,0 +1,401 @@
+{
+  "q1": [
+    {
+      "delivered_orders": 10133,
+      "units_sold": 13306,
+      "total_revenue": 47089730.0,
+      "avg_order_value": 4647.17
+    }
+  ],
+  "q2": [
+    {
+      "month": "2025-01",
+      "orders": 632,
+      "revenue": 3268455.0
+    },
+    {
+      "month": "2025-02",
+      "orders": 623,
+      "revenue": 2646415.0
+    },
+    {
+      "month": "2025-03",
+      "orders": 686,
+      "revenue": 3731228.0
+    },
+    {
+      "month": "2025-04",
+      "orders": 698,
+      "revenue": 3263752.0
+    },
+    {
+      "month": "2025-05",
+      "orders": 688,
+      "revenue": 3113126.0
+    },
+    {
+      "month": "2025-06",
+      "orders": 787,
+      "revenue": 3139096.0
+    },
+    {
+      "month": "2025-07",
+      "orders": 796,
+      "revenue": 3649017.0
+    },
+    {
+      "month": "2025-08",
+      "orders": 872,
+      "revenue": 3556478.0
+    },
+    {
+      "month": "2025-09",
+      "orders": 898,
+      "revenue": 4293160.0
+    },
+    {
+      "month": "2025-10",
+      "orders": 1277,
+      "revenue": 6149979.0
+    },
+    {
+      "month": "2025-11",
+      "orders": 1213,
+      "revenue": 5978671.0
+    },
+    {
+      "month": "2025-12",
+      "orders": 963,
+      "revenue": 4300353.0
+    }
+  ],
+  "q3": [
+    {
+      "category": "Electronics",
+      "orders": 3071,
+      "revenue": 33098995.0,
+      "revenue_share_pct": 70.29
+    },
+    {
+      "category": "Home & Kitchen",
+      "orders": 1830,
+      "revenue": 6054507.0,
+      "revenue_share_pct": 12.86
+    },
+    {
+      "category": "Fashion",
+      "orders": 2490,
+      "revenue": 4807986.0,
+      "revenue_share_pct": 10.21
+    },
+    {
+      "category": "Sports",
+      "orders": 848,
+      "revenue": 1910511.0,
+      "revenue_share_pct": 4.06
+    },
+    {
+      "category": "Beauty",
+      "orders": 1000,
+      "revenue": 797951.0,
+      "revenue_share_pct": 1.69
+    },
+    {
+      "category": "Books",
+      "orders": 894,
+      "revenue": 419780.0,
+      "revenue_share_pct": 0.89
+    }
+  ],
+  "q4": [
+    {
+      "product": "Laptop",
+      "category": "Electronics",
+      "orders": 247,
+      "revenue": 17689926.0
+    },
+    {
+      "product": "Smartphone",
+      "category": "Electronics",
+      "orders": 530,
+      "revenue": 10165280.0
+    },
+    {
+      "product": "Air Fryer",
+      "category": "Home & Kitchen",
+      "orders": 281,
+      "revenue": 2143615.0
+    },
+    {
+      "product": "Smart Watch",
+      "category": "Electronics",
+      "orders": 441,
+      "revenue": 1705257.0
+    },
+    {
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "orders": 464,
+      "revenue": 1550895.0
+    },
+    {
+      "product": "Wireless Earbuds",
+      "category": "Electronics",
+      "orders": 756,
+      "revenue": 1498712.0
+    },
+    {
+      "product": "Mixer Grinder",
+      "category": "Home & Kitchen",
+      "orders": 326,
+      "revenue": 1472628.0
+    },
+    {
+      "product": "Denim Jeans",
+      "category": "Fashion",
+      "orders": 525,
+      "revenue": 1234186.0
+    },
+    {
+      "product": "Bluetooth Speaker",
+      "category": "Electronics",
+      "orders": 461,
+      "revenue": 1219474.0
+    },
+    {
+      "product": "Dinner Set",
+      "category": "Home & Kitchen",
+      "orders": 349,
+      "revenue": 1048530.0
+    }
+  ],
+  "q5": [
+    {
+      "customer_id": "CUST1468",
+      "orders": 14,
+      "total_spend": 307036.0
+    },
+    {
+      "customer_id": "CUST0909",
+      "orders": 17,
+      "total_spend": 292731.0
+    },
+    {
+      "customer_id": "CUST0730",
+      "orders": 13,
+      "total_spend": 274084.0
+    },
+    {
+      "customer_id": "CUST1073",
+      "orders": 15,
+      "total_spend": 260156.0
+    },
+    {
+      "customer_id": "CUST0595",
+      "orders": 13,
+      "total_spend": 240682.0
+    },
+    {
+      "customer_id": "CUST0975",
+      "orders": 11,
+      "total_spend": 238722.0
+    },
+    {
+      "customer_id": "CUST1858",
+      "orders": 4,
+      "total_spend": 214721.0
+    },
+    {
+      "customer_id": "CUST1149",
+      "orders": 14,
+      "total_spend": 199463.0
+    },
+    {
+      "customer_id": "CUST0371",
+      "orders": 8,
+      "total_spend": 193458.0
+    },
+    {
+      "customer_id": "CUST0888",
+      "orders": 12,
+      "total_spend": 187413.0
+    }
+  ],
+  "q6": [
+    {
+      "region": "West",
+      "orders": 2610,
+      "revenue": 13428581.0,
+      "revenue_share_pct": 28.52
+    },
+    {
+      "region": "South",
+      "orders": 2712,
+      "revenue": 11904316.0,
+      "revenue_share_pct": 25.28
+    },
+    {
+      "region": "North",
+      "orders": 1987,
+      "revenue": 9162944.0,
+      "revenue_share_pct": 19.46
+    },
+    {
+      "region": "East",
+      "orders": 1521,
+      "revenue": 6595767.0,
+      "revenue_share_pct": 14.01
+    },
+    {
+      "region": "Central",
+      "orders": 1303,
+      "revenue": 5998122.0,
+      "revenue_share_pct": 12.74
+    }
+  ],
+  "q7": [
+    {
+      "total_customers": 2221,
+      "repeat_customers": 1772,
+      "repeat_customer_rate_pct": 79.78
+    }
+  ],
+  "q8": [
+    {
+      "status": "Delivered",
+      "orders": 10133,
+      "pct_of_all_orders": 86.39,
+      "order_value": 47089730.0
+    },
+    {
+      "status": "Cancelled",
+      "orders": 1064,
+      "pct_of_all_orders": 9.07,
+      "order_value": 4785800.0
+    },
+    {
+      "status": "Returned",
+      "orders": 532,
+      "pct_of_all_orders": 4.54,
+      "order_value": 2163761.0
+    }
+  ],
+  "q9": [
+    {
+      "month": "2025-01",
+      "orders": 632,
+      "revenue": 3268455.0,
+      "avg_order_value": 5171.61,
+      "revenue_rank": 8
+    },
+    {
+      "month": "2025-02",
+      "orders": 623,
+      "revenue": 2646415.0,
+      "avg_order_value": 4247.86,
+      "revenue_rank": 12
+    },
+    {
+      "month": "2025-03",
+      "orders": 686,
+      "revenue": 3731228.0,
+      "avg_order_value": 5439.11,
+      "revenue_rank": 5
+    },
+    {
+      "month": "2025-04",
+      "orders": 698,
+      "revenue": 3263752.0,
+      "avg_order_value": 4675.86,
+      "revenue_rank": 9
+    },
+    {
+      "month": "2025-05",
+      "orders": 688,
+      "revenue": 3113126.0,
+      "avg_order_value": 4524.89,
+      "revenue_rank": 11
+    },
+    {
+      "month": "2025-06",
+      "orders": 787,
+      "revenue": 3139096.0,
+      "avg_order_value": 3988.69,
+      "revenue_rank": 10
+    },
+    {
+      "month": "2025-07",
+      "orders": 796,
+      "revenue": 3649017.0,
+      "avg_order_value": 4584.19,
+      "revenue_rank": 6
+    },
+    {
+      "month": "2025-08",
+      "orders": 872,
+      "revenue": 3556478.0,
+      "avg_order_value": 4078.53,
+      "revenue_rank": 7
+    },
+    {
+      "month": "2025-09",
+      "orders": 898,
+      "revenue": 4293160.0,
+      "avg_order_value": 4780.8,
+      "revenue_rank": 4
+    },
+    {
+      "month": "2025-10",
+      "orders": 1277,
+      "revenue": 6149979.0,
+      "avg_order_value": 4815.96,
+      "revenue_rank": 1
+    },
+    {
+      "month": "2025-11",
+      "orders": 1213,
+      "revenue": 5978671.0,
+      "avg_order_value": 4928.83,
+      "revenue_rank": 2
+    },
+    {
+      "month": "2025-12",
+      "orders": 963,
+      "revenue": 4300353.0,
+      "avg_order_value": 4465.58,
+      "revenue_rank": 3
+    }
+  ],
+  "q10": [
+    {
+      "region": "Central",
+      "product": "Laptop",
+      "orders": 30,
+      "revenue": 2157748.0
+    },
+    {
+      "region": "East",
+      "product": "Laptop",
+      "orders": 35,
+      "revenue": 2402903.0
+    },
+    {
+      "region": "North",
+      "product": "Laptop",
+      "orders": 54,
+      "revenue": 3755123.0
+    },
+    {
+      "region": "South",
+      "product": "Laptop",
+      "orders": 53,
+      "revenue": 3820063.0
+    },
+    {
+      "region": "West",
+      "product": "Laptop",
+      "orders": 75,
+      "revenue": 5554089.0
+    }
+  ]
+}
