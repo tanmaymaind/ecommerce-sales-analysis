@@ -5,10 +5,15 @@ cleaning in Python, the same 10 business questions answered in **both SQL
 (SQLite) and pandas** — with every answer cross-checked to match — plus a
 Power BI dashboard pack.
 
-> **Dashboard screenshot coming soon** — the Power BI dashboard is built on
-> a Windows laptop from the pack in [`powerbi/`](powerbi/) (measures and
-> layout included). Its screenshot will replace this note. No dashboard
-> image is shown until the real one exists.
+## Power BI Dashboard
+
+Built in Power BI (web) from the cleaned data in this repo — 2 pages
+(Overview + Customers), with DAX measures for every KPI. Every value on
+the dashboard matches the SQL and Python results below.
+
+![Dashboard — Overview](screenshots/powerbi_overview.png)
+
+![Dashboard — Customers](screenshots/powerbi_customers.png)
 
 ## About the dataset — read this first
 
